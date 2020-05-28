@@ -6,11 +6,11 @@ TITLE CONVERT DEG AND MIN COORDS TO SCT2 format
 
 :version_chk
 
-SET USER_VER=1.0
+SET USER_VER=1.0.1
 
-SET GITHUB_VERSION_CHK_URL=https://github.com/KSanders7070/DEG_MIN_CONVERT_OUTPUT_FOLDER/blob/master/Version_Check
+SET GITHUB_VERSION_CHK_URL=https://github.com/KSanders7070/DEG_MIN_CONVERT_TO_SCT2/blob/master/Version_Check
 
-SET BATCH_FILE_RELEASES_URL=https://github.com/KSanders7070/DEG_MIN_CONVERT_OUTPUT_FOLDER/releases
+SET BATCH_FILE_RELEASES_URL=https://github.com/KSanders7070/DEG_MIN_CONVERT_TO_SCT2/releases
 
 ECHO.
 ECHO.
